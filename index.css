@@ -256,3 +256,46 @@ body
     left: 45%;
     transform: translate(-50%, -50%);
 }
+
+.rectanguloblanco
+{
+    background: white;
+    width:460px;
+    height:10px;   
+    position: absolute;
+    top: 35%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+}
+
+.rectanguloblanco2
+{
+    background: white;
+    width:460px;
+    height:10px;   
+    position: absolute;
+    top: 50%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+}
+
+.rectanguloblanco3
+{
+    background: white;
+    width:460px;
+    height:10px;   
+    position: absolute;
+    top: 65%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+}
+.rectanguloblanco4
+{
+    background: white;
+    width:230px;
+    height:10px;   
+    position: absolute;
+    top: 80%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+}
