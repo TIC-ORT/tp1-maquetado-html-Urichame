@@ -7,7 +7,7 @@ body
 .contenedor1
 {
     position: absolute;
-    top: 33%;
+    top: 41%;
     left: 28%;
 }
 
@@ -43,7 +43,7 @@ body
 .contenedor2
 {
     position: absolute;
-    top: 33%;
+    top: 41%;
     left: 45%;
 }
 
@@ -79,7 +79,7 @@ body
 .contenedor3
 {
     position: absolute;
-    top: 33%;
+    top: 41%;
     left: 62%;
 }
 
@@ -115,7 +115,7 @@ body
 .contenedor4
 {
     position: absolute;
-    top: 62%;
+    top: 70%;
     left: 28%;
 }
 
@@ -151,7 +151,7 @@ body
 .contenedor5
 {
     position: absolute;
-    top: 62%;
+    top: 70%;
     left: 45%;
 }
 
@@ -187,7 +187,7 @@ body
 .contenedor6
 {
     position: absolute;
-    top: 62%;
+    top: 70%;
     left: 62%;
 }
 
@@ -313,7 +313,137 @@ body
     background-color: lightslategray;
     width: 1366px;
     height: 180px;
-    position: absolute;
+    position: relative;
 }
 
+.rectangulogrischico
+{
+    background: grey;
+    width: 200px;
+    height: 25px;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
 
+.rectangulogrischico2
+{
+    background: grey;
+    width: 200px;
+    height: 25px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.rectangulogrischico3
+{
+    background: grey;
+    width: 200px;
+    height: 25px;
+    position: absolute;
+    top: 30%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
+
+.linea
+{
+    background: white;
+    width: 200px;
+    height: 10px;
+    position: absolute;
+    top: 55%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+
+.linea2
+{
+    background: white;
+    width: 200px;
+    height: 10px;
+    position: absolute;
+    top: 70%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+
+.linea3
+{
+    background: white;
+    width: 150px;
+    height: 10px;
+    position: absolute;
+    top: 85%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+
+.linea4
+{
+    background: white;
+    width: 200px;
+    height: 10px;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.linea5
+{
+    background: white;
+    width: 200px;
+    height: 10px;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.linea6
+{
+    background: white;
+    width: 150px;
+    height: 10px;
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.linea7
+{
+    background: white;
+    width: 200px;
+    height: 10px;
+    position: absolute;
+    top: 55%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
+
+.linea8
+{
+    background: white;
+    width: 200px;
+    height: 10px;
+    position: absolute;
+    top: 70%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
+
+.linea9
+{
+    background: white;
+    width: 150px;
+    height: 10px;
+    position: absolute;
+    top: 85%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
